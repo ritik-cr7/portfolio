@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+section {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+#profile-image {
+        position: absolute;
+        top: 165px; /* Adjust the top distance as needed */
+        right: 50px; /* Adjust the right distance as needed */
+        border: 2px solid #fff; /* Optional border styling */
+       
+        width: 150px; /* Set the width as needed */
+        height: 150px; /* Set the height to match the width for a square shape */
+    }
+}
